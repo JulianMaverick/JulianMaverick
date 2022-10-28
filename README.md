@@ -2,7 +2,7 @@
 
 <h1 align="center">Hola 👋 , Soy Julian Maverick</h1>
 <h3 align="center">Un apasionado desarrollador, estudiante de Ingenieria y futuro análista de datos. Soy Argentino</h3>
-<img align="right" alt="Coding" width="350" src="https://www.sureworks.in/images/bigdata.gif">
+<img align="right" alt="Coding" center =0 width="350" src="https://www.sureworks.in/images/bigdata.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
 <img src="https://github-profile-trophy.vercel.app/?username=julianmaverick" alt="julianmaverick" /></a> </p>
