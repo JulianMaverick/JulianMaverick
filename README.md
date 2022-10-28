@@ -1,9 +1,7 @@
-
 [![MasterHead](https://beyond-machine.com/wp-content/uploads/2022/02/data_science.jpg)]
-
 <h1 align="center">Hola 👋 , Soy Julian Maverick</h1>
 <h3 align="center">Un apasionado desarrollador, estudiante de Ingenieria y futuro análista de datos. Soy Argentina</h3>
-<img align="right" alt="Coding" width="500" src="https://www.sureworks.in/images/bigdata.gif">
+<img align="right" alt="Coding" width="350" src="https://www.sureworks.in/images/bigdata.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=julianmaverick" alt="julianmaverick" /></a> </p>
 
