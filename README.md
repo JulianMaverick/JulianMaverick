@@ -1,4 +1,4 @@
-![MasterHead height= 100 ](https://beyond-machine.com/wp-content/uploads/2022/02/data_science.jpg)
+![MasterHead](https://beyond-machine.com/wp-content/uploads/2022/02/data_science.jpg)
 
 <h1 align="center">Hola 👋 , Soy Julian Maverick</h1>
 <h3 align="center">Un apasionado desarrollador, estudiante de Ingenieria y futuro análista de datos. Soy Argentino</h3>
